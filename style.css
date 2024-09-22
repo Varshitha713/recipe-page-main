@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+.omlette{
+    padding :2px;
+    max-width: 100% ;
+    height: auto;
+    width: 62em;
+    border-radius: 12px;
+     
+}
+.young-serif-regular{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.decor{ 
+    background-color: #ffcdb269;
+    border-radius: 5px;
+    border-width: 5px;
+    
+}
+h2{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:brown
+}
+h4{
+    color:brown;
+    font-family: serif;
+}
+
+table{
+    width:100%;
+    text-align: center;
+    border-collapse: collapse;
+    border: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+}
+td,tr{
+    border:2px solid #e4cccc;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    
+}
+ol {
+    list-style: decimal;
+}
+ol::marker {
+    color:brown;
+}
+
+
+.outfit-font2 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
+  color:brown;
+  
+}
+
+p{
+    font-size: 1em;
+}
